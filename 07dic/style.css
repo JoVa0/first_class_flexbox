@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    color: green;
+}
+h2{
+    color: blue;
+}
+.styleh3{
+    color: yellow;
+    background-color:lightblue;
+}
+#idParagraph{
+    font-size: 20px;
+    font-weight: bold;
+    letter-spacing: 3px;
+}
+.phover{
+    background-color: red;
+    cursor: pointer;
+}
+.phover:hover{
+    background-color: blue;
+    color: #ffffff;
+}
+.pactive:active{
+    letter-spacing: 3px;
+    background-color: yellow;
+}

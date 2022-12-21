@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.boxPadre{
+    height: 500px;
+    width: 500px;
+    border: 2px black dashed;
+    display: inline;
+}
+.boxHijo{
+    padding: 10px;
+    height: 100%;
+    width: 100%;
+    
+}
+.boxHijo1{
+    background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2FyomerApqsi%2F&psig=AOvVaw1RtduwJc3SHPz3wOXBEOyr&ust=1670626542359000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJC2pv-O6_sCFQAAAAAdAAAAABAE");
+    border-top: 10px grey solid;
+    border-bottom: 10px grey solid;
+}
+.boxHijo2{
+    background-color: red;
+    border-top: 10px grey solid;
+    border-bottom: 10px grey solid;
+}
+.boxHijo3{
+    background-color: salmon;
+    border-right: 10px cyan solid;
+    border-left: 10px cyan solid;
+}
+.boxHijo4{
+    background-color: green;
+    border-right: 10px cyan solid;
+    border-left: 10px cyan solid;
+}
